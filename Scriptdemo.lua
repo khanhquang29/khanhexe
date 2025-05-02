@@ -42,7 +42,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
+loadstring(game:HttpGet("https://pastefy.app/ACOX6D6h/raw"))()
   end
   })
   
@@ -57,3 +57,131 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinN"))()
   end
   })
+  
+  AddButton(Tab2o, {
+     Name = "min gaming",
+    Callback = function()
+	  local Settings = {
+  JoinTeam = "Pirates"; -- Pirates/Marines
+  Translator = true; -- true/false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))()@Black kokomi:_G.Config = {
+["Melee"] = {
+["Superhuman"] = true,
+["Death Step"] = true,
+["Sharkman Karate"] = true,
+["Electric Claw"] = true,
+["Dragon Talon"] = true,
+["Godhuman"] = true
+},
+["Sword"] = {
+["Saber"] = true,
+["Rengoku"] = true,
+["Canvander"] = true,
+["Buddy Sword"] = true,
+["Yama"] = true,
+["Tushita"] = true,
+["True Triple Katana"] = true,
+["Cursed Dual Katana"] = true
+},
+["Gun"] = {
+["Kabucha"] = true,
+["Acidum Rifle"] = true,
+["Serpent Bow"] = true
+},
+["Mastery"] = {
+["Sword"] = true
+},
+["Setting"] = {
+["Enabled"] = true,
+["Bring Mob [Less Lag]"] = true,
+["Hop Server"] = true,
+["Reduce Lag"] = true,
+["Notifycation Remove"] = true,
+["Hop When Player Nearby"] = {
+["Enabled"] = true,
+["Radius"] = 350
+}
+}
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))() đây nhé@Black kokomi:_G.Config = {
+["Melee"] = {
+["Superhuman"] = true,
+["Death Step"] = true,
+["Sharkman Karate"] = true,
+["Electric Claw"] = true,
+["Dragon Talon"] = true,
+["Godhuman"] = true
+},
+["Sword"] = {
+["Saber"] = true,
+["Rengoku"] = true,
+["Canvander"] = true,
+["Buddy Sword"] = true,
+["Yama"] = true,
+["Tushita"] = true,
+["True Triple Katana"] = true,
+["Cursed Dual Katana"] = true
+},
+["Gun"] = {
+["Kabucha"] = true,
+["Acidum Rifle"] = true,
+["Serpent Bow"] = true
+},
+["Mastery"] = {
+["Sword"] = true
+},
+["Setting"] = {
+["Enabled"] = true,
+["Bring Mob [Less Lag]"] = true,
+["Hop Server"] = true,
+["Reduce Lag"] = true,
+["Notifycation Remove"] = true,
+["Hop When Player Nearby"] = {
+["Enabled"] = true,
+["Radius"] = 350
+}
+}
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))() đây nhé@Black kokomi:_G.Config = {
+["Melee"] = {
+["Superhuman"] = true,
+["Death Step"] = true,
+["Sharkman Karate"] = true,
+["Electric Claw"] = true,
+["Dragon Talon"] = true,
+["Godhuman"] = true
+},
+["Sword"] = {
+["Saber"] = true,
+["Rengoku"] = true,
+["Canvander"] = true,
+["Buddy Sword"] = true,
+["Yama"] = true,
+["Tushita"] = true,
+["True Triple Katana"] = true,
+["Cursed Dual Katana"] = true
+},
+["Gun"] = {
+["Kabucha"] = true,
+["Acidum Rifle"] = true,
+["Serpent Bow"] = true
+},
+["Mastery"] = {
+["Sword"] = true
+},
+["Setting"] = {
+["Enabled"] = true,
+["Bring Mob [Less Lag]"] = true,
+["Hop Server"] = true,
+["Reduce Lag"] = true,
+["Notifycation Remove"] = true,
+["Hop When Player Nearby"] = {
+["Enabled"] = true,
+["Radius"] = 350
+}
+}
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))()
+
