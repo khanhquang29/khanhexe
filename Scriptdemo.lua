@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "ffz Roblox",
-         Animation = "roblox: ffz Roblox"
+         Title = "Khánh android",
+         Animation = "roblox: Khánh android"
          },
         Key = {
         KeySystem = false,
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=83190276951914", 
+       Image = "http://www.roblox.com/asset/?id=123993825864596", 
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
@@ -58,7 +58,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
   end
   })
   
-  AddButton(Tab2o, {
+  AddButton(Tab1o, {
      Name = "min gaming",
     Callback = function()
 	  local Settings = {
@@ -66,122 +66,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))()@Black kokomi:_G.Config = {
-["Melee"] = {
-["Superhuman"] = true,
-["Death Step"] = true,
-["Sharkman Karate"] = true,
-["Electric Claw"] = true,
-["Dragon Talon"] = true,
-["Godhuman"] = true
-},
-["Sword"] = {
-["Saber"] = true,
-["Rengoku"] = true,
-["Canvander"] = true,
-["Buddy Sword"] = true,
-["Yama"] = true,
-["Tushita"] = true,
-["True Triple Katana"] = true,
-["Cursed Dual Katana"] = true
-},
-["Gun"] = {
-["Kabucha"] = true,
-["Acidum Rifle"] = true,
-["Serpent Bow"] = true
-},
-["Mastery"] = {
-["Sword"] = true
-},
-["Setting"] = {
-["Enabled"] = true,
-["Bring Mob [Less Lag]"] = true,
-["Hop Server"] = true,
-["Reduce Lag"] = true,
-["Notifycation Remove"] = true,
-["Hop When Player Nearby"] = {
-["Enabled"] = true,
-["Radius"] = 350
-}
-}
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))() đây nhé@Black kokomi:_G.Config = {
-["Melee"] = {
-["Superhuman"] = true,
-["Death Step"] = true,
-["Sharkman Karate"] = true,
-["Electric Claw"] = true,
-["Dragon Talon"] = true,
-["Godhuman"] = true
-},
-["Sword"] = {
-["Saber"] = true,
-["Rengoku"] = true,
-["Canvander"] = true,
-["Buddy Sword"] = true,
-["Yama"] = true,
-["Tushita"] = true,
-["True Triple Katana"] = true,
-["Cursed Dual Katana"] = true
-},
-["Gun"] = {
-["Kabucha"] = true,
-["Acidum Rifle"] = true,
-["Serpent Bow"] = true
-},
-["Mastery"] = {
-["Sword"] = true
-},
-["Setting"] = {
-["Enabled"] = true,
-["Bring Mob [Less Lag]"] = true,
-["Hop Server"] = true,
-["Reduce Lag"] = true,
-["Notifycation Remove"] = true,
-["Hop When Player Nearby"] = {
-["Enabled"] = true,
-["Radius"] = 350
-}
-}
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))() đây nhé@Black kokomi:_G.Config = {
-["Melee"] = {
-["Superhuman"] = true,
-["Death Step"] = true,
-["Sharkman Karate"] = true,
-["Electric Claw"] = true,
-["Dragon Talon"] = true,
-["Godhuman"] = true
-},
-["Sword"] = {
-["Saber"] = true,
-["Rengoku"] = true,
-["Canvander"] = true,
-["Buddy Sword"] = true,
-["Yama"] = true,
-["Tushita"] = true,
-["True Triple Katana"] = true,
-["Cursed Dual Katana"] = true
-},
-["Gun"] = {
-["Kabucha"] = true,
-["Acidum Rifle"] = true,
-["Serpent Bow"] = true
-},
-["Mastery"] = {
-["Sword"] = true
-},
-["Setting"] = {
-["Enabled"] = true,
-["Bring Mob [Less Lag]"] = true,
-["Hop Server"] = true,
-["Reduce Lag"] = true,
-["Notifycation Remove"] = true,
-["Hop When Player Nearby"] = {
-["Enabled"] = true,
-["Radius"] = 350
-}
-}
-}
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashLua/BloxFruits/main/KaitunBeta.RiseEvo"))()
-
+  end
+  })
+  
